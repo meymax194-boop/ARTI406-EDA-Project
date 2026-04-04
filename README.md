@@ -7,7 +7,8 @@ This project performs a comprehensive Exploratory Data Analysis on a car market 
 
 Dataset Description
 - Source: European Car Market Dataset (final_scout_not_dummy.csv).
-- Size:15,915 rows and 13 columns.
+- Size:15,915 rows and 13 columns
+
 - Key Features:
     - `make_model`: Brand and model of the car.
     - `price`: Selling price.
@@ -24,3 +25,7 @@ Key Insights
 - Price Distribution: Most cars are priced between 10,000 and 20,000 Euro.
 - Mileage Impact: A clear negative correlation exists between mileage (km) and price.
 - Top Models: Renault Espace and Audi models command the highest average prices.
+[ARTI406_Assignment_1.ipynb](https://github.com/user-attachments/files/26483440/ARTI406_Assignment_1.ipynb)
+
+[final_scout_not_dummy.csv](https://github.com/user-attachments/files/26483444/final_scout_not_dummy.csv)
+
